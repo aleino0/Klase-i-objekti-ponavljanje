@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\klase_i_objekti-pon\klase_i_objekti-pon\bin\Debug\klase_i_objekti-pon.exe.config
+C:\Users\ucenik\source\repos\klase_i_objekti-pon\klase_i_objekti-pon\bin\Debug\klase_i_objekti-pon.exe
+C:\Users\ucenik\source\repos\klase_i_objekti-pon\klase_i_objekti-pon\bin\Debug\klase_i_objekti-pon.pdb
+C:\Users\ucenik\source\repos\klase_i_objekti-pon\klase_i_objekti-pon\obj\Debug\klase_i_objekti-pon.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klase_i_objekti-pon\klase_i_objekti-pon\obj\Debug\klase_i_objekti-pon.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klase_i_objekti-pon\klase_i_objekti-pon\obj\Debug\klase_i_objekti-pon.exe
+C:\Users\ucenik\source\repos\klase_i_objekti-pon\klase_i_objekti-pon\obj\Debug\klase_i_objekti-pon.pdb
